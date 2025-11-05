@@ -1,0 +1,7 @@
+{
+  "name": "Duna Canarias  Gestión de Pedidos",
+  "description": "An application for Duna Canarias workers to manage clients, generate orders from photos using AI, and track client visits.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
